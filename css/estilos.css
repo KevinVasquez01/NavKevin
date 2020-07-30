@@ -9,7 +9,6 @@ header nav{
     background-color: #f7f3fa;
     box-shadow: inset 0.2rem -0.6rem 0.8rem #e2cdf3;
     width: 100%;
-    z-index: 99999;
 }
 .menu_bar{
     display: none;
